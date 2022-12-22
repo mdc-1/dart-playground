@@ -15,7 +15,7 @@ void main(List<String> args) {
 // Normal positional parameters cannot have default values, but if you want
 // to have them, then you'd need to use optional positional parameters, using
 // [] brackets
-// Any positional parameter inside the square bracket that does not have a
+// Any positional parameter inside the square bracket that doesn't have a
 // default value should be optional, meaning, null will be assigned to this
 // name
 void makeUpperCase([String? name, String lastName = 'Bar']) {

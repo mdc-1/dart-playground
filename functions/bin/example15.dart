@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  // Functions can also become arrow functions and omit the retunr keyword
+  // Functions can also become arrow functions and omit the return keyword
   print(minus());
   print(minus(30, 20));
   print(minus(20, 30));
