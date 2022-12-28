@@ -37,7 +37,7 @@ void main(List<String> args) {
   print(names[4]);
   print(names[5]);
 
-  // Not recommended in most cases. Better is the check the length og the
+  // Not recommended in most cases. Better is the check the length of the
   // string before.
   try {
     print(names[8]);
